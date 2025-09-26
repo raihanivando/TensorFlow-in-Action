@@ -1,1 +1,6 @@
-# TensorFlow-in-Action
+# TensorFlow-in-Action — Reproduction & Notes
+
+## Anggota
+- Muhammad Mario Riski (NIM) — kontribusi: ...
+- Raihan Ivando Diaz (1103223093) — kontribusi: ...
+
